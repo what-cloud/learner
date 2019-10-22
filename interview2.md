@@ -24,7 +24,9 @@ In e-commerce - the data that you don't have, often can be as important as the d
 so we buy custom data of import export declare
 
 ## Python
-Array[-1] means what?
+Array[-1] means what? (last element)
+
+percentile(50，[1,2,3,4,5])=3
 
 Pandas DF read_csv
 
