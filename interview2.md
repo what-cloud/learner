@@ -1,4 +1,6 @@
-4 behaviour questions:
+"tell me about migrating VBA to alteryx" - "Automation is difficult if logic sit with data, We want to separate Logic from data"
+ 
+ 4 behaviour questions:
 
 1. why do you choose us?
 
